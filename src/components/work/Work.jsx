@@ -56,7 +56,7 @@ needs. Experienced in working under multiple languages.
                 ))} 
 
               </ul>
-              <p className='px-5 py-1'> <a className=" text-cyan-300" href={experience.links} target='_blank'>See project!</a></p>
+              <p className='px-5 py-1'> <a className=" text-cyan-300" href={experience.links} target='_blank'>See project !</a></p>
               
             </VerticalTimelineElement>
           ))}
