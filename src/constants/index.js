@@ -98,7 +98,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Freelance",
+        title: "Imperial Traders",
         company_name: "Dynamic Website",
         icon: imperial,
         iconBg: "#FFCCCB",
@@ -112,7 +112,7 @@ export const experiences = [
         links:"http://www.imperialtraders.co"
     },
     {
-        title: "Freelance",
+        title: "Dc Traders",
         company_name: "Static Website",
         icon: dctraders,
         iconBg: "#CCCCFF",
@@ -126,7 +126,7 @@ export const experiences = [
         links:"https://dctraders.org"
     },
     {
-        title: "Freelance",
+        title: "Swastik Insulation",
         company_name: "Static Website",
         icon: swastik,
         iconBg: "#FFDB58",
@@ -139,7 +139,7 @@ export const experiences = [
         links:"https://www.swastikinsulation.com"
     },
     {
-        title: "Freelance",
+        title: "Renu Insulation",
         company_name: "Static Website",
         icon: renu,
         iconBg: "#b7e4c7",
